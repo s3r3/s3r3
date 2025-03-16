@@ -7,6 +7,8 @@
 
 <h2 align="left">Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓,</h2>
 
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s3r3&label=Profile%20views&color=ff7300&style=plastic" alt="s3r3" /> </p>
 
 ###
