@@ -4,13 +4,10 @@
 
 ###
 <img align="right" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"  />
-
-<h2 align="left">Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓,</h2>
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s3r3&label=Profile%20views&color=ff7300&style=plastic" alt="s3r3" /> </p>
-
+<div align="left">
+<h2>Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓,</h2>
+<p> <img src="https://komarev.com/ghpvc/?username=s3r3&label=Profile%20views&color=ff7300&style=plastic" alt="s3r3" /> </p>
+</div>
 ###
 
 <div align="center">
