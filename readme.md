@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓,</h2>
+<h2 align="center">Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓,</h2>
 
 ###
 
