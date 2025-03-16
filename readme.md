@@ -71,6 +71,9 @@
 ###
 
 <br clear="both">
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/s3r3/s3r3/output/snake.svg" alt="Snake animation" />
 
