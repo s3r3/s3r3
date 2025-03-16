@@ -72,7 +72,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRoNjF3YWs4MzVqbDZsZHU0ZmszYnlhMjZrdTNnNmg2a2ZvdXp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBC2X38xzOGGjwiZjB/giphy.gif"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/s3r3/s3r3/output/snake.svg" alt="Snake animation" />
