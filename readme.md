@@ -3,7 +3,7 @@
 </div>
 
 <div>
- Hello, My Name is Muhammad Farid <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+ <p>Hello, My Name is Muhammad Farid</p> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 <div align="center" >
