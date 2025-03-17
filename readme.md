@@ -2,13 +2,31 @@
   <img height="200" width="100%" object-fit= "cover" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
 </div>
 
-###
-
+<div>
+ Hello, My Name is Muhammad Farid <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
 <div align="center" >
 <img align="center" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"  />
-<h2>Hi 👋! My name is Muhammad Farid and I'm a Student 👨‍🎓</h2>
+  
+  <div align="left">
+    
+    
+```typescript
+const MY = {
+  pronouns: "He" | "Him",
+  IT Student At Jabal Ghafur University
+  "Wisest is he who know she does know"
+}
+```
+ 
+
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s3r3&label=Profile%20views&color=ff7300&style=plastic" alt="s3r3" /> </p>
 </div>
+
+
 ###
 
 <div align="center">
@@ -77,6 +95,8 @@
 </div>
 
 ###
+
+
 
 ###
 
