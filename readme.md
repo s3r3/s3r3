@@ -16,7 +16,7 @@
 const MY = {
   pronouns: "He" | "Him",
   IT Student At Jabal Ghafur University
-  "Wisest is he who know she does know"
+  "Wisest is he who know he does know"
 }
 ```
  
@@ -81,6 +81,9 @@ const MY = {
 <div align="left">
   <a href="https://www.instagram.com/faridmu_byd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+<a href="https://www.goodreads.com/user/show/179640700-muhammad-farid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Goodreads&logo=goodreads&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo"  />
   </a>
   <a href="faridmu851@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
