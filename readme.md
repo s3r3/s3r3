@@ -12,7 +12,7 @@
     
     
 ```typescript
-const MY = {
+const ID = {
   pronouns: "He" | "Him",
   IT Student At Jabal Ghafur University
   "What we see depends mainly on what we look for"
