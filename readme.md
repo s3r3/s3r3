@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" object-fit= "cover" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
+  <img height="500" width="100%" object-fit= "cover" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
 </div>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
