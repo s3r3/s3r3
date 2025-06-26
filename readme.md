@@ -15,7 +15,7 @@
 const MY = {
   pronouns: "He" | "Him",
   IT Student At Jabal Ghafur University
-  "Wisest is he who know he does know"
+  "What we see depends mainly on what we look for"
 }
 ```
  
