@@ -81,11 +81,9 @@ const MY = {
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/cxrnflakesk/" target="_blank">
+<a href="https://www.instagram.com/cxrnflakesk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-</div>
 <a href="https://www.goodreads.com/user/show/179640700-muhammad-farid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Goodreads&logo=goodreads&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo"  />
   </a>
