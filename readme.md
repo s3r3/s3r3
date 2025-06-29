@@ -5,8 +5,8 @@
 
 <div align="center" >
   <img align="center" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"  />
-   <h2>Hello, My Name is Muhammad Farid <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/> </h2> 
-  <br/>
+   <h2><code>Hello, My Name is Muhammad Farid</code> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /> </h2> 
+  
 </div>
   <div align="left">
     
