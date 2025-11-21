@@ -66,8 +66,6 @@ const ID = {
   <img width="12" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker.svg" height="30" alt="docker logo"  />
-  <img width="12" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   </div>
    
