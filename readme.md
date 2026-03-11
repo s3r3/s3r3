@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</p>
 <div align="center">
   <img height="400" width="100%" object-fit= "cover" src="https://i.pinimg.com/originals/6d/52/ec/6d52ecd3b73ff6098bf71c7d8250ff7b.gif"/>
 </div>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align="center">✦ ─────────────────────────────────────── ⋆ ─────────────────────────────────────── ✦
+</div>
 <div align="center" >
   <img align="center" width="10%" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"  />
    <h2><code>Hello, My Name is Muhammad Farid</code> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /> </h2> 
@@ -18,29 +21,63 @@ const ID = {
   "What we see depends mainly on what we look for"
 }
 ```
- 
+
+
+> **Interested in:** Mie Ayam.
+>
+> **Currently learning:** Machine Learning.
+>
+> **Fun fact:** I don't like Apple Things:)
 
 </div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s3r3&label=Profile%20views&color=ff7300&style=plastic" alt="s3r3" /> </p>
 </div>
 
 
 ###
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3r3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3r3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true" height="150" alt="languages graph"   />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3r3&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+<div align="center">✦ ─────────────────────────────────────── ⋆ ─────────────────────────────────────── ✦
 </div>
 
 ###
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### 💻 Environment
+
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/Repo-BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+![KDE](https://img.shields.io/badge/Desktop-KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![GNOME](https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge)
+
+![Fish](https://img.shields.io/badge/Shell-Fish-4AAE47?style=for-the-badge&logo=fish-shell&logoColor=white)
+![Starship](https://img.shields.io/badge/Prompt-Starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+
+![Kitty](https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.tenor.com/ItloOf_4U-AAAAAj/toothless-dancing.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3r3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
+<div align="center">✦ ─────────────────────────────────────── ⋆ ─────────────────────────────────────── ✦
+</div>
+
 
 <div align="left">
   <div align="center">
@@ -80,11 +117,11 @@ const ID = {
 
 ###
 
-<a href="https://www.instagram.com/cxrnflakesk/" target="_blank">
+<a href="https://www.instagram.com/faridmu_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 <a href="https://www.goodreads.com/user/show/179640700-muhammad-farid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Goodreads&logo=goodreads&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo"  />
+    <img src="https://img.shields.io/static/v1?message=Goodreads&logo=goodreads&label=&color=372213&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo"  />
   </a>
   <a href="faridmu851@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -105,7 +142,8 @@ const ID = {
 
 ###
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">✦ ─────────────────────────────────────── ⋆ ─────────────────────────────────────── ✦
+</div>
 
 ###
 
@@ -124,3 +162,6 @@ const ID = {
 
 ###
 ###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
